@@ -1,5 +1,5 @@
 
-TARGET=day9_assign2
+TARGET=day12_socket_client
 
 CSRCS= $(TARGET).c
 CSRCS+= 
